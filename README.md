@@ -22,6 +22,7 @@ DCAT
 Creator: OpenAgenda
 Update frequency : Daily
 
+
 # 🎯 CONTEXT AND GOAL
 
 The primary goal of our project was to develop an application leveraging the API endpoint provided by OpenData platform to enable users to conveniently search for public events based on their preferences, locations, and the titles of the events. The application aims to allow users to explore and discover events that match their specific interests, preferred locations, by accessing, filtering, sorting, paginating and finding relevant public events, enhancing their event discovery experience and facilitating their participation in activities aligned with their preferences and geographical proximity.
